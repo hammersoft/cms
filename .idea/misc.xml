@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="IdProvider" IDEtalkID="B319D2D0026344C4EB75FFEA602ACD37" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
