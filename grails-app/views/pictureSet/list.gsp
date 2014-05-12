@@ -14,7 +14,7 @@
 <body>
     <ul>
     <g:each var="pictureSet" in="${pictureSetList}">
-        <li>${pictureSet.name}, ${pictureSet.creationDate}</li>
+        <li><g:link action="view" id="${pictureSet.id}" >${pictureSet.name}</g:link>, ${pictureSet.creationDate}</li>
     </g:each>
     </ul>
 </body>

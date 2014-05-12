@@ -85,7 +85,8 @@
 		<div id="status" role="complementary">
             <h1>NAV</h1>
             <ul>
-              <li><g:link controller="picture" action="upload"><g:message code="Picture.upload.label" default="Upload Picture"/></g:link></li>
+                <li><g:link controller="picture" action="upload"><g:message code="Picture.upload.label" default="Upload Picture"/></g:link></li>
+                <li><g:link controller="pictureSet" action="list"><g:message code="PictureSet.list.label" default="Picture set list"/></g:link></li>
             </ul>
 		</div>
 		<div id="page-body" role="main">

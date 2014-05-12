@@ -13,11 +13,17 @@
 </head>
 <body>
     <h1>${pictureSet.name}</h1>
+    <g:link action="edit" id="${pictureSet.id}"><g:message code="pictureSet.append" default="Append images"></g:message></g:link>
 
     <ul>
     <g:each var="picture" in="${pictureSet.pictures}">
-        <li>${picture.id}</li>
+
+        <g:img uri="/picture/image/${picture.fileName}" width="100" height="100"></g:img>
+        <li>${picture.fileName}</li>
+        <br>
+
     </g:each>
     </ul>
+
 </body>
 </html>
