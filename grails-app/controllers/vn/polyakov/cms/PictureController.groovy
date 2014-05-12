@@ -33,8 +33,8 @@ class PictureController {
         }
 
         flash.message = "Image (${picture.fileName}) uploaded."
-        params.id = picture.fileName;
-        redirect(action:'image',params:params)
+        //params.id = picture.fileName;
+        redirect(action:'image',id:picture.fileName)
 
     }
 

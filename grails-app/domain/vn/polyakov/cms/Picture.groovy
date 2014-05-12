@@ -25,8 +25,8 @@ class Picture {
         md5.update(imageData)
         fileName = new String(Hex.encodeHex(md5.digest()));
         //TODO: Remove Hardcode!!!
-        File d = new File("/tmp/gallery/"+"/"+fileName);
-        FileOutputStream fos = new FileOutputStream(fileName);
+        //File d = new File("/tmp/gallery/"+"/"+fileName);
+        FileOutputStream fos = new FileOutputStream("/tmp/gallery/"+"/"+fileName);
         fos.write(imageData)
         fos.close();
     }
