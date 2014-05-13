@@ -2,35 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9bfc581-2ceb-4c27-8c9c-7f24e5467038" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/pictureSet/edit.gsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/pictureSet/append.gsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/vn/polyakov/cms/PictureSetController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/vn/polyakov/cms/PictureSetController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/pictureSet/list.gsp" afterPath="$PROJECT_DIR$/grails-app/views/pictureSet/list.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_cs_CZ.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_cs_CZ.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_da.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_da.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_de.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_de.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_es.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_es.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_fr.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_fr.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_it.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_it.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_ja.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ja.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_nb.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nb.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_nl.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nl.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_pl.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pl.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_pt_BR.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_BR.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_pt_PT.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_PT.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_ru.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ru.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_sv.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_sv.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_th.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_th.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/pictureSet/view.gsp" afterPath="$PROJECT_DIR$/grails-app/views/pictureSet/view.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cms.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/Dummy.txt" changelist="c9bfc581-2ceb-4c27-8c9c-7f24e5467038" time="1399889361418" ignored="false" />
+    <file path="/Dummy.txt" changelist="c9bfc581-2ceb-4c27-8c9c-7f24e5467038" time="1399893332743" ignored="false" />
     <file path="/Picture.groovy" changelist="c9bfc581-2ceb-4c27-8c9c-7f24e5467038" time="1399546917356" ignored="false" />
     <file path="$PROJECT_DIR$/../gportal/grails-app/domain/gportal/Picture.groovy" changelist="c9bfc581-2ceb-4c27-8c9c-7f24e5467038" time="1399543266518" ignored="false" />
     <file path="/PictureSet.groovy" changelist="c9bfc581-2ceb-4c27-8c9c-7f24e5467038" time="1399544677093" ignored="false" />
@@ -127,7 +113,7 @@
       <file leaf-file-name="view.gsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/pictureSet/view.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="64" selection-start="491" selection-end="491" vertical-scroll-proportion="0.53370786">
+            <state line="7" column="100" selection-start="148" selection-end="148" vertical-scroll-proportion="0.22340426">
               <folding />
             </state>
           </provider>
@@ -677,7 +663,11 @@
       <created>1399889373537</created>
       <updated>1399889373537</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Picture Set cahnges">
+      <created>1399893346415</created>
+      <updated>1399893346415</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -704,7 +694,7 @@
     <frame x="-4" y="34" width="1928" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29392266" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -717,12 +707,12 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16435432" sideWeight="0.67071825" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16435432" sideWeight="0.6" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928178" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -778,7 +768,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="PictureSet initial class data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Picture Set cahnges" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -795,6 +785,7 @@
     <MESSAGE value="Initial project structure" />
     <MESSAGE value="Picture class" />
     <MESSAGE value="PictureSet initial class data" />
+    <MESSAGE value="Picture Set cahnges" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -932,7 +923,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/pictureSet/view.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="64" selection-start="491" selection-end="491" vertical-scroll-proportion="0.53370786">
+        <state line="7" column="100" selection-start="148" selection-end="148" vertical-scroll-proportion="0.22340426">
           <folding />
         </state>
       </provider>
